@@ -178,4 +178,4 @@ I welcome collaboration in:
 
 ---
 
-*Building secure, explainable, and intelligent data-driven systems that transform complex spatial and non-spatial data into trusted decisions.*
+*Building secure, explainable, and intelligent data-driven systems that transform complex spatial and non-spatial data into trusted decision-making.*
